@@ -4,7 +4,7 @@
 
 对文章的总结，详细原理看原作者的文章内容吧，在此感谢原作者
 
-[OC最实用的runtime总结，面试、工作你看我就足够了！]("http://www.jianshu.com/p/ab966e8a82e2")
+[OC最实用的runtime总结，面试、工作你看我就足够了！](http://www.jianshu.com/p/ab966e8a82e2)
 
 ## Usage
 Person.h
